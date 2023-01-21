@@ -1,2 +1,2 @@
 # Food-Delivery-Website
-This is a Foof Delivery Website That is Fully Responsive
+This is a Food Delivery Website That is Fully Responsive
